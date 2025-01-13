@@ -1,0 +1,26 @@
+{
+  "name": "pracccctice",
+  "version": "1.0.0",
+  "description": "\"this is my first react app\"",
+  "keywords": [
+    "\"practice\""
+  ],
+  "homepage": "https://github.com/Rishi-045/practice#readme",
+  "bugs": {
+    "url": "https://github.com/Rishi-045/practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rishi-045/practice.git"
+  },
+  "license": "ISC",
+  "author": "rishikesh pal",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
